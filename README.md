@@ -207,8 +207,7 @@ python tests/test_package.py
 
 ## Licences
 
-The combined repository, model integration and checkpoints are distributed
-under AGPL-3.0. Ultralytics also offers an enterprise licence. See `LICENSE`
+The combined repository, model integration and checkpoints are under AGPL-3.0. Ultralytics also offers an enterprise licence. See `LICENSE`
 and `THIRD_PARTY_NOTICES.md`.
 
 The standalone `cr_probability.py` and `fuzzy_rules.py` components are
