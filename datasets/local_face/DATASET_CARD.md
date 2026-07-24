@@ -24,12 +24,6 @@ Face size is determined from normalized face height.
 - Medium: 3% < height <= 6%
 - Large: height > 6%
 
-| Split | Small | Medium | Large |
-|---|---:|---:|---:|
-| Train | 158 | 16 | 4 |
-| Validation | 63 | 6 | 1 |
-| Test | 93 | 9 | 0 |
-
 ## Annotations
 
 Annotations use YOLO text format:
