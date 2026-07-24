@@ -1,0 +1,63 @@
+{
+  "objective": 0.5727105915778681,
+  "component_threshold": 0.6,
+  "normalization": {
+    "cluster_count": [
+      13.1443860059116,
+      310.2620442708333
+    ],
+    "cluster_density": [
+      506.16351396907345,
+      48497.583113088716
+    ]
+  },
+  "membership": {
+    "cluster_count": {
+      "centers": {
+        "low": 0.2659145025615237,
+        "medium": 0.36431479732816835,
+        "high": 0.6795621984479363
+      },
+      "widths": {
+        "low": 0.388593300532721,
+        "medium": 0.31080043784010347,
+        "high": 0.1798544426442621
+      }
+    },
+    "cluster_density": {
+      "centers": {
+        "low": 0.18970642399158555,
+        "medium": 0.47878630121129345,
+        "high": 0.9876731118160398
+      },
+      "widths": {
+        "low": 0.11354382133585061,
+        "medium": 0.33083277631232566,
+        "high": 0.20170275489768136
+      }
+    }
+  },
+  "fit_accuracy": 0.62,
+  "fit_macro_recall": 0.3693535348323207,
+  "tune_accuracy": 0.676,
+  "tune_macro_recall": 0.3937120410999421,
+  "min_area_ratio": 1e-05,
+  "inference": "zero_order_sugeno",
+  "activation_minimum_regions": 4,
+  "patch_scale": {
+    "4": 0.25,
+    "6": 0.2,
+    "8": 0.15
+  },
+  "rule_outputs": [
+    8,
+    4,
+    6,
+    6,
+    8
+  ],
+  "seed": 91,
+  "trials": 12000,
+  "dataset": "wider",
+  "baseline_region_threshold": 0.3
+}

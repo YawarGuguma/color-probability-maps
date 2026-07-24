@@ -1,0 +1,27 @@
+{
+  "source": "controlled local vehicle recordings",
+  "validation_frames": "Video 101409, inclusive frames 1278-1892",
+  "storage_modes": [
+    "AES-256 encrypted archive"
+  ],
+  "statistics": {
+    "train": {
+      "images": 194,
+      "positive_images": 65,
+      "faces": 178,
+      "negative_images": 129
+    },
+    "valid": {
+      "images": 64,
+      "positive_images": 36,
+      "faces": 70,
+      "negative_images": 28
+    },
+    "test": {
+      "images": 178,
+      "positive_images": 64,
+      "faces": 102,
+      "negative_images": 114
+    }
+  }
+}

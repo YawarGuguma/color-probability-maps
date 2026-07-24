@@ -1,0 +1,5 @@
+method,overall_ap50,small_ap50,medium_ap50
+Standard YOLOv5n,0.456311,0.433478,0.272980
+Standard YOLOv8n,0.465078,0.439403,0.207385
+Modified P1-P4,0.492982,0.469368,0.417874
+YOLO-SOD fuzzy Cr,0.493615,0.470058,0.417874

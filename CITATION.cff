@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the associated YOLO-SOD paper when using this repository."
+title: "YOLO-SOD: Modified YOLOv5 with adaptive fuzzy Cr patches"
+type: software
+authors:
+  - family-names: "Shirazi"
+    given-names: "Muhammad Faizan"
+    email: "faizanshirazi@neduet.edu.pk"
+  - family-names: "Saba"
+    given-names: "Aniqa"
+  - family-names: "Rehman"
+    given-names: "Yawar"
+  - family-names: "Khan"
+    given-names: "Muhammad Mubashir"
+version: 1.0.0
+date-released: 2026-07-24
+license: AGPL-3.0
