@@ -5,8 +5,6 @@ maps and five fuzzy rules. The detector has P1, P2, P3 and P4 prediction heads.
 A full-image detector runs on every image. A second detector runs only on
 selected Cr patches.
 
-No SAHI code is used.
-
 All copy-paste commands are collected in
 [`RUN_COMMANDS.md`](RUN_COMMANDS.md).
 
