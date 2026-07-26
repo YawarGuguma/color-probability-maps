@@ -209,11 +209,11 @@ The fitted parameters used for the reported experiments are included under
 
 ## Performance on Local dataset
 
-| Method | Overall mAP@0.50 | Small-face mAP@0.50 | Medium-face mAP@0.50 |
-|---|---:|---:|---:|
-| Standard YOLOv5n | 0.456311 | 0.433478 | 0.272980 |
-| Standard YOLOv8n | 0.465078 | 0.439403 | 0.207385 |
-| YOLO-SOD with fuzzy Cr patches | 0.493615 | 0.470058 | 0.417874 |
+| Method | Overall mAP@0.50 |
+|---|---:|---:|
+| Standard YOLOv5n | 0.456311 |
+| Standard YOLOv8n | 0.465078 |
+| YOLO-SOD with fuzzy Cr patches | 0.493615 |
 
 ## Checks
 
