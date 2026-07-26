@@ -199,17 +199,21 @@ The learned ranker and merge classifiers require labelled calibration data.
 The fitted parameters used for the reported experiments are included under
 `configs/wider/` and `configs/local/`.
 
-## Performance on Wider Face dataset
-Method	Easy AP@0.50	Medium AP@0.50	Hard AP@0.50
-YOLOv5n	0.929679	0.907638	0.809458
-YOLOv8n	0.932543	0.912321	0.818240
-YOLO-SOD with fuzzy Cr patches	0.930695	0.912485	0.844502
+## Performance on WIDER FACE dataset
+
+| Method | Easy mAP@0.50 | Medium mAP@0.50 | Hard mAP@0.50 |
+|---|---:|---:|---:|
+| YOLOv5n | 0.929679 | 0.907638 | 0.809458 |
+| YOLOv8n | 0.932543 | 0.912321 | 0.818240 |
+| YOLO-SOD with fuzzy Cr patches | 0.930695 | 0.912485 | 0.844502 |
 
 ## Performance on Local dataset
-Method	Overall AP@0.50	Small-face AP@0.50	Medium-face AP@0.50
-Standard YOLOv5n	0.456311	0.433478	0.272980
-Standard YOLOv8n	0.465078	0.439403	0.207385
-YOLO-SOD with fuzzy Cr patches	0.493615	0.470058	0.417874
+
+| Method | Overall mAP@0.50 | Small-face mAP@0.50 | Medium-face mAP@0.50 |
+|---|---:|---:|---:|
+| Standard YOLOv5n | 0.456311 | 0.433478 | 0.272980 |
+| Standard YOLOv8n | 0.465078 | 0.439403 | 0.207385 |
+| YOLO-SOD with fuzzy Cr patches | 0.493615 | 0.470058 | 0.417874 |
 
 ## Checks
 
