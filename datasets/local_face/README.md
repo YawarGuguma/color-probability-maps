@@ -8,7 +8,7 @@ The Local Datasset can be downloaded from the Google drive here
 
 https://drive.google.com/file/d/1XRN2lzTxmMmZEzyKnppQpwYDiTtkg_6_/view?usp=drive_link
 
-To request the AES-256 ZIP password, email:
+To request the ZIP password, email:
 
 `faizanshirazi@neduet.edu.pk`
 
