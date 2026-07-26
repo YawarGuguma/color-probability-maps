@@ -12,7 +12,7 @@ To request the ZIP password, email:
 
 `faizanshirazi@neduet.edu.pk`
 
-The request must contain the applicant's name, institution, research purpose
+The request will contain the applicant's name, institution, research purpose
 and written agreement to `DATA_USE_TERMS.md`. Passwords are sent privately
 after approval and must not be shared please.
 
