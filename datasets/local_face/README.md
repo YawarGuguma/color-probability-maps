@@ -4,9 +4,9 @@ The image archive is encrypted because it contains identifiable people.
 Written consent was obtained from recorded participants. Access is limited to
 research uses that are consistent with the consented purpose.
 
-The Local Datasset can be downloaded from the Google drive here 
+The Local Datasset can be downloaded from the following link. Dataset is free to use.
 
-https://drive.google.com/file/d/1XRN2lzTxmMmZEzyKnppQpwYDiTtkg_6_/view?usp=drive_link
+https://doi.org/10.6084/m9.figshare.33189120
 
 To request the ZIP password, email:
 
