@@ -5,7 +5,7 @@ maps and five fuzzy rules. The detector has P1, P2, P3 and P4 prediction heads.
 A full-image detector runs on every image. A second paraller detector runs only on
 selected Cr patches.
 
-All copy-paste commands are collected in
+All copy-paste commands are in
 [`RUN_COMMANDS.md`](RUN_COMMANDS.md).
 
 ## Installation
