@@ -8,6 +8,10 @@ selected Cr patches.
 All copy-paste commands are in
 [`RUN_COMMANDS.md`](RUN_COMMANDS.md).
 
+Authored by Aniqa Saba, M. Faizan Shirazi, Yawar Rehman,
+M. Mubashir Khan
+
+
 ## Installation
 
 The tested setup uses Python 3.11 and CUDA-enabled PyTorch.
