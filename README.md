@@ -1,7 +1,7 @@
 # YOLO-SOD
 
 YOLO-SOD combines a modified YOLOv5 nano detector with learned Cr probability
-maps and five fuzzy rules. YOLO-SOD can detect small faces with reference to the input The detector has P1, P2, P3 and P4 prediction heads.
+maps and five fuzzy rules. YOLO-SOD is able to detect small faces with reference to the input image size. The detector has P1, P2, P3 and P4 prediction heads.
 A full-image detector runs on every image. A second paraller detector runs only on
 selected Cr patches.
 
