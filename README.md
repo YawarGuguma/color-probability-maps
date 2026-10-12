@@ -236,3 +236,6 @@ this Ultralytics-dependent application remains subject to AGPL-3.0.
 
 The local dataset is not covered by either software licence. Its separate
 controlled-access terms are in `datasets/local_face/DATASET_LICENSE.md`.
+
+## Citation
+
