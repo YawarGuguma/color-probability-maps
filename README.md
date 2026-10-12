@@ -238,4 +238,4 @@ The local dataset is not covered by either software licence. Its separate
 controlled-access terms are in `datasets/local_face/DATASET_LICENSE.md`.
 
 ## Citation
-This research work has been accepted in PLOS ONE. Citation coming soon
+This research work has been accepted in PLOS ONE journal. Citation coming soon
