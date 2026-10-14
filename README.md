@@ -5,7 +5,7 @@ maps and five fuzzy rules. YOLO-SOD is able to detect small faces with reference
 A full-image detector runs on every image. A second paraller detector runs only on
 selected Cr patches.
 
-All copy and paste commands are in
+All copy and paste terminal commands are in
 [`RUN_COMMANDS.md`](RUN_COMMANDS.md)
 
 Authored by Aniqa Saba, M. Faizan Shirazi, Yawar Rehman,
