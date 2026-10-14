@@ -6,7 +6,7 @@ A full-image detector runs on every image. A second paraller detector runs only 
 selected Cr patches.
 
 All copy and paste commands are in
-[`RUN_COMMANDS.md`](RUN_COMMANDS.md).
+[`RUN_COMMANDS.md`](RUN_COMMANDS.md)
 
 Authored by Aniqa Saba, M. Faizan Shirazi, Yawar Rehman,
 M. Mubashir Khan
