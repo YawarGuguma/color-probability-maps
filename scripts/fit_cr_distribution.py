@@ -78,7 +78,7 @@ def main():
         "sampled_background_pixels": background_pixels,
         "source_split": "train only",
     }
-    args.output.parent.mkdir(parents=True, exist_ok=True)
+    # args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(output, indent=2))
     print(f"Learned Cr threshold: {threshold:.3f}")
     print(f"Saved distribution to {args.output.resolve()}")
