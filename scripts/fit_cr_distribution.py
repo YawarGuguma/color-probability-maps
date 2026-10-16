@@ -15,7 +15,7 @@ sys.path.insert(0, str(ROOT))
 from yolo_sod.boxes import image_files, load_yolo_labels
 from yolo_sod.cr_probability import (
     build_distribution,
-    # face_background_masks,
+    face_background_masks,
 )
 
 
